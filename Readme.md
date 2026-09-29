@@ -1,3 +1,5 @@
+Adrián Durán Durán- Palabra del día: 29
+
 # Tarea de Evaluación Práctica 1: Reconocimiento e Introducción a los Lenguajes de Marcas
 
 **Módulo:** Lenguajes de Marcas y Sistemas de Gestión de Información (LMSGI)  
